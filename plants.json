@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Rafflesia arnoldii",
+        "photo": "tanaman/rfls.webp",
+        "description": "Rafflesia arnoldii, dikenal sebagai bunga rafflesia, adalah tanaman langka yang dikenal dengan bunga terbesar di dunia. Bunga ini dapat mencapai diameter lebih dari 1 meter dan memiliki bau busuk yang mirip dengan bau daging busuk.",
+        "benefits": "Rafflesia arnoldii tidak memiliki manfaat langsung untuk manusia, tetapi berperan penting dalam ekosistem sebagai penyerbuk dan bagian dari rantai makanan.",
+        "care": "Tanaman ini tumbuh di hutan hujan tropis yang lembap dan tidak memerlukan perawatan khusus dari manusia. Ia tumbuh sebagai parasit pada akar tanaman inangnya.",
+        "additionalInfo": "Rafflesia arnoldii adalah spesies yang terancam punah dan dilindungi oleh undang-undang di beberapa negara. Penampilan bunga ini adalah fenomena yang sangat langka dan menarik bagi para botanis dan pecinta alam."
+    },
+    {
+        "id": 2,
+        "name": "Amorphophallus titanum",
+        "photo": "tanaman/amtit.webp",
+        "description": "Amorphophallus titanum, juga dikenal sebagai bunga bangkai titan, adalah tanaman yang terkenal karena ukuran bunga dan baunya yang sangat kuat. Bunga ini dapat mencapai ketinggian 3 meter dan mengeluarkan bau busuk untuk menarik penyerbuk.",
+        "benefits": "Amorphophallus titanum tidak memiliki manfaat praktis bagi manusia tetapi memiliki nilai ilmiah dan estetika tinggi. Bunga ini menarik perhatian dalam studi tentang ekologi dan evolusi.",
+        "care": "Tanaman ini memerlukan lingkungan yang lembap dan hangat, seperti hutan hujan tropis. Perawatan melibatkan pemeliharaan kelembapan tanah dan suhu yang stabil.",
+        "additionalInfo": "Bunga ini mekar sangat jarang, biasanya hanya setiap beberapa tahun sekali, membuat kemunculannya menjadi peristiwa yang sangat dinantikan."
+    },
+    {
+        "id": 3,
+        "name": "Welwitschia mirabilis",
+        "photo": "tanaman/welmir.webp",
+        "description": "Welwitschia mirabilis adalah tanaman langka yang hanya ditemukan di gurun Namib dan Angola. Tanaman ini memiliki dua daun yang terus tumbuh sepanjang hidupnya dan dapat bertahan selama ribuan tahun.",
+        "benefits": "Welwitschia mirabilis memiliki kemampuan untuk bertahan hidup di kondisi gurun yang ekstrem dan merupakan contoh adaptasi tanaman terhadap lingkungan yang keras.",
+        "care": "Tanaman ini tidak memerlukan banyak perawatan, tetapi memerlukan lingkungan yang kering dan temperatur yang ekstrem. Perawatan utamanya adalah memastikan bahwa tanaman tidak terkena kelembapan berlebih.",
+        "additionalInfo": "Welwitschia mirabilis adalah satu-satunya spesies dalam genusnya dan dianggap sebagai fosil hidup karena strukturnya yang telah ada sejak jutaan tahun lalu."
+    }
+]
